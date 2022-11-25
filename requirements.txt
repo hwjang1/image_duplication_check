@@ -1,0 +1,7 @@
+faiss-cpu
+img2vec_pytorch
+torch
+torchvision
+numpy
+tqdm
+clint
